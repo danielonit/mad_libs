@@ -6,4 +6,4 @@ I decided to try and complete every item on that list start from Mad Libs and al
 For those of you who don't know what Mad Libs is, Mad Libs is a paper game where a player has to fill out some words like nouns and adjectives. Later, they go and fill out the story with the words that they picked earlier on. Down below I added a photo of what a paper (original) Mad Libs looks like.
 
 ## The Picture
-![images](https://user-images.githubusercontent.com/124419231/236576827-d08621e0-4360-4a57-821c-7eba2c75b2ea.png)
+![Stay-Home-Theme-Totally-Tie-Dyed-2](https://user-images.githubusercontent.com/124419231/236577041-1f2fe04f-a46f-4ca8-a075-59af4ce9d2bf.jpg)
